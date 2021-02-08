@@ -1,0 +1,14 @@
+/* Dark - Theme */
+
+main {
+    background: white;
+    color: black;
+}
+
+.icons-social a {
+    color: white;
+}
+
+.icons-social a svg path {
+    fill: white;
+}
